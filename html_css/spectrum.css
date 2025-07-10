@@ -1,0 +1,49 @@
+/*selected tag{
+property : value;
+}
+*/
+
+h1{
+    color : green;
+    text-align : center;
+    /*  Extra font css added to it, https://fonts.google.com/    */
+    font-family: "Modak", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*For Class Tag = . */
+.spectrum{
+    margin : auto;
+}
+
+td{
+    height : 400px;
+    width : 200px;
+    border : 6px solid white;
+}
+
+
+/*For ID Tag = # */
+#one{
+    background-color : black;
+}
+
+#two{
+    background-color : red;
+}
+
+#three{
+    background-color : green;
+}
+
+#four{
+    background-color : blue;
+}
+
+#five{
+    background-color : orange;
+}
+
+
+
